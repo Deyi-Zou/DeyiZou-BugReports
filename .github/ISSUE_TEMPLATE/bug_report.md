@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Software**
+Where the bug was found.
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
@@ -28,11 +31,11 @@ If applicable, add screenshots to help explain your problem.
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Estimate Severity**  
+Your comment to the justify the severity:
+- [ ] high
+- [ ] medium 
+- [ ] low  
 
-**Additional context**
-Add any other context about the problem here.
+
+
